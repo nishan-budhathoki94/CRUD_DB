@@ -1,0 +1,19 @@
+{
+  "name": "crud_db",
+  "version": "1.0.0",
+  "description": "Learning CRUD with postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishan-budhathoki94/CRUD_DB.git"
+  },
+  "author": "NISHAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishan-budhathoki94/CRUD_DB/issues"
+  },
+  "homepage": "https://github.com/nishan-budhathoki94/CRUD_DB#readme"
+}
